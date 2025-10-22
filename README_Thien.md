@@ -1,7 +1,7 @@
 # Vai trò thành viên nhóm
 
 ## Thông tin
-- Họ tên: Nguyễn Văn Thiên
+- Họ tên: Trần Chí Thiện
 - Vai trò: Backend Developer
 
 ## Nhiệm vụ
